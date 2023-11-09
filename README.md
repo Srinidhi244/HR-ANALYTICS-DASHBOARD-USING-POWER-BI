@@ -27,11 +27,11 @@ __The HR Analytics Dashboard will track several key performance indicators, incl
 * Attrition Rate: This calculates the percentage of employees who have left, relative to the total employee count.
 * Active Employees: This represents the number of employees who are currently employed in the organization.
 * Average Age: This shows the average age of the employees.
-* Education Field Wise Attritio: This pie chart represents the distribution of attrition across different education fields in the organisation.
+* Education Field Wise Attrition: This pie chart represents the distribution of attrition across different education fields in the organisation.
 * Number of Employees By Age Group: This bar graph illustrates the distribution of employees across different age ranges.
 * Job Satisfaction Rate: The matrix chart showcases job satisfaction ratings for different job roles or positions.
 * Department Wise Attrition : This bar graph presents the attrition rates categorized by different departments in the organization.
-* Attrition Rate By Gender For Different Age Group: The donut chart shows the attrition rates segmented by gender within different age groups.
+* Attrition Rate By Gender: The tree map chart shows the attrition rates segmented by gender.
 * Attrition by Years at Company: The area chart showcases the sum of attrition count by number of years at company
 
 ## Dashboard View
@@ -42,5 +42,3 @@ __The HR Analytics Dashboard will track several key performance indicators, incl
 ## Conclusion
 <p align = "justify">
 At the end of the project, you will have a comprehensive HR Analytics Dashboard that offers valuable insights into HR operations and aids in making strategic decisions. This project integrates technical and data analytics skills to provide a hands-on application of Power BI within a business environment. These numerical insights help HR professionals to understand the current state of the workforce, make data-driven decisions and make smart decisions to effectively manage the workforce. </p>
-
-
